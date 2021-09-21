@@ -81,7 +81,7 @@ export default {
     background-image: linear-gradient(to bottom,rgba(0,0,0,0.25),rgba(0,0,0,0.35));
   }
   .search-box{
-    width: 100%;
+    width: 90%;
     
   }
   .search{
